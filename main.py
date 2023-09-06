@@ -5,3 +5,4 @@ def mul(a,b):
 def sub(a,b):
     return a-b
 print(cal_sum(2,3))
+print(sub(4,3))
